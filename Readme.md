@@ -25,7 +25,7 @@ The `PubSub2` node may now ask:
 
 Well, nobody knows, because the charts you are seeing above don't exist, yet. 😣
 
-Debugging this inter-process time-related behavior is hard. You cannot use traditional debuggers like `gcc`, as that would **modify the behavior** That's why we want to add **trace debugging** to eCAL.
+Debugging this inter-process time-related behavior is hard. You cannot use traditional debuggers like `gdb`, as that would **modify the behavior** That's why we want to add **trace debugging** to eCAL.
 
 # 🎯 Goal
 
